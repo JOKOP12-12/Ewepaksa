@@ -1,6 +1,6 @@
 <div align=center>
  
-# Its DDoS Panel 
+# C2 DDoS Panel 
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/StrDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -62,5 +62,5 @@ don't do these things. if you can lol
 
 # CONTACT:
 ```sh
-Telegram: @Lintar21
+Telegram: @kyymotherfucker
 ```
