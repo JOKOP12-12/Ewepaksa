@@ -333,8 +333,8 @@ def main():
                 print('Example: paping 1.1.1.1 443 120')
 #only niggs dont understand
 
-elif "help" in cnc:
-            print(f'''
+        elif "help" in cnc:
+            print(f'''            print(f'''
 \x1b[38;2;0;212;14mMethods► Show All Methods
 \x1b[38;2;0;212;14mCLEAR   ► CLEAR TERMINAL
 \x1b[38;2;0;212;14mExit ► Keluar dari tools
